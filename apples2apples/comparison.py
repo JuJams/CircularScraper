@@ -199,7 +199,7 @@ def extract_price(price_str):
     
     return None
 
-def find_best_match(product_type, store_products, threshold=70):
+def find_best_match(product_type, store_products, threshold=80):
     """Find the best matching product type in store inventory"""
     if not product_type:
         return None, 0
@@ -216,9 +216,10 @@ def find_best_match(product_type, store_products, threshold=70):
         original_index = store_product_types.index(best_match[0])
         return store_products[original_index], best_match[1]
     
-    # Try with lower threshold for partial matches
-    if threshold > 60:
-        return find_best_match(product_type, store_products, threshold=60)
+    # Only try with slightly lower threshold if initial match fails
+    # More strict to avoid poor matches
+    if threshold > 75:
+        return find_best_match(product_type, store_products, threshold=75)
     
     return None, 0
 
@@ -298,7 +299,7 @@ def create_price_comparison():
             # Find best match
             best_match, confidence = find_best_match(product_type, store_products)
             
-            if best_match and confidence >= 60:
+            if best_match and confidence >= 75:
                 # Get the price for the matched product
                 matched_row = store_df[store_df[name_col] == best_match].iloc[0]
                 price = extract_price(matched_row[price_col])

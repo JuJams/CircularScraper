@@ -3,5 +3,5 @@
   "description": ["description", "sale_story"],
   "price": ["price_text", "price.value", "original_price"],
   "price_per_unit": ["post_price_text", "unit"],
-  "category": ["categories", "category", "department"],
+  "category": ["categories", "category", "department"]
 }
