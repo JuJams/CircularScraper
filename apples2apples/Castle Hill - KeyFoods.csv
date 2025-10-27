@@ -1,0 +1,214 @@
+Category,Product Name,Quantity,Price,Price Per Unit,Unit Type
+PRODUCE,Green Plantains,6 pieces,$2.00,$0.33,per piece
+PRODUCE,Red Snapper,1 lb,$6.99,$6.99,per lb
+PRODUCE,Basa Fillets,1 lb,$5.99,$5.99,per lb
+PRODUCE,Tilapia Fillets,1 lb,$5.99,$5.99,per lb
+PRODUCE,Fresh Baked Bridor French Baguette,12.3 oz,$2.99,$0.24,per oz
+PRODUCE,Boar's Head Genoa Salami,1 lb,$9.99,$9.99,per lb
+PRODUCE,Frozen Turkey Wings,1 lb,$2.99,$2.99,per lb
+PRODUCE,Frozen Beef Oxtail,1 lb,$2.99,$2.99,per lb
+PRODUCE,Fresh Limes,10 pieces,$2.00,$0.20,per piece
+PRODUCE,Plum Tomatoes,1 lb,$0.79,$0.79,per lb
+PRODUCE,Ground Beef (80% Lean),1 lb,$3.99,$3.99,per lb
+PRODUCE,Top Round London Broil,1 lb,$5.99,$5.99,per lb
+PRODUCE,Perdue Chicken Drumsticks,1 lb,$1.49,$1.49,per lb
+PRODUCE,Center Cut Pork Chops,1 lb,$2.99,$2.99,per lb
+PRODUCE,Goat Meat,1 lb,$9.99,$9.99,per lb
+PRODUCE,US #1 Yellow Onions,2 lb bag,2 for $3.00,$0.75,per lb
+PRODUCE,GPOD Idaho Potatoes,5 lb bag,2 for $3.00,$0.30,per lb
+PRODUCE,Hass Avocados,1 each,$0.99,$0.99,per piece
+PRODUCE,Red Seedless Watermelons,10-12 lb average,$3.99,$0.36,per lb (avg)
+PRODUCE,BacalaRico Pollock,12 oz,$2.99,$0.25,per oz
+PRODUCE,Frozen Whiting,2 lb bag,$2.99,$1.50,per lb
+PANTRY,Sunshine Farms Extra Large Eggs,1 dozen,$1.00,$0.08,per egg
+PANTRY,La Fe Frozen Gandules,14 oz,2 for $6.00,$0.21,per oz
+PANTRY,Häagen-Dazs Ice Cream,14 fl oz,2 for $10.00,$0.36,per fl oz
+PANTRY,CapriSun or Country Time Drinks,60 fl oz pkg,2 for $4.00,$0.03,per fl oz
+PANTRY,Café Bustelo Coffee,10 oz,$3.50,$0.35,per oz
+PANTRY,Minute Maid Punch,59 fl oz,10 for $6.00,$0.01,per fl oz
+PANTRY,Goya Dominican Red Kidney Beans,16 oz,2 for $6.00,$0.19,per oz
+PANTRY,Libby's Vienna Sausage,4.6 oz,5 for $4.00,$0.17,per oz
+PANTRY,Presidente Beer,144 fl oz (12 pack),$14.99,$0.10,per fl oz
+PANTRY,Ronzoni Pasta,12-16 oz,2 for $4.00,$0.14,per oz (avg)
+PANTRY,Eggo Waffles,Various sizes,$1.00,Variable,per package
+PANTRY,Wesson Oil,128 fl oz,$12.99,$0.10,per fl oz
+PANTRY,Carolina Long Grain Rice,20 lb,$8.99,$0.45,per lb
+PANTRY,Bounty Paper Towels,6-12 rolls,$15.99,$1.78,per roll (avg)
+PANTRY,Barilla Pasta Sauce,24 oz,2 for $3.00,$0.06,per oz
+PANTRY,Yoplait Yogurt,4-6 oz,2 for $1.00,$0.10,per oz (avg)
+PANTRY,Boar's Head Provolone Cheese,1 lb,$7.99,$7.99,per lb
+PANTRY,DiLusso Deluxe Ham,1 lb,$6.99,$6.99,per lb
+PANTRY,Lunchables,All sizes,Buy 2 Get 1 Free,Variable,per package
+PANTRY,Philadelphia Cream Cheese,8 oz,2 for $5.00,$0.31,per oz
+HEALTH_BEAUTY,Beech-Nut Baby Food,2.5 oz,2 for $3.00,$0.60,per oz
+HEALTH_BEAUTY,Beech-Nut Variety Pack,30 oz,$15.99,$0.53,per oz
+HEALTH_BEAUTY,Gerber Mealtime For Baby,6 oz,2 for $4.00,$0.33,per oz
+HEALTH_BEAUTY,Gerber Mealtime For Toddler,6.6-6.8 oz,$2.99,$0.44,per oz (avg)
+HEALTH_BEAUTY,Happy Baby Baby Food,4 oz,2 for $3.00,$0.38,per oz
+HEALTH_BEAUTY,Gerber Lil Meals,6 oz,2 for $5.00,$0.42,per oz
+HEALTH_BEAUTY,Luvs Diapers,20-46 count,$8.99,$0.27,per diaper (avg)
+HEALTH_BEAUTY,Pampers Baby Wipes,560 count,$7.49,$0.01,per wipe
+HEALTH_BEAUTY,Oral B Floss,75 count,$3.99,$0.05,per piece
+HEALTH_BEAUTY,Pantene Shampoo,17.9 fl oz,$4.99,$0.28,per fl oz
+HEALTH_BEAUTY,Old Spice 2-in-1,13.5 fl oz,$6.99,$0.52,per fl oz
+HEALTH_BEAUTY,Vick's Cold & Cough Relief,0.5-15 oz,$10.99,$1.47,per oz (avg)
+HEALTH_BEAUTY,Head & Shoulders Shampoo,12.5-13.5 fl oz,$6.99,$0.54,per fl oz (avg)
+HEALTH_BEAUTY,Crest Toothpaste,4.2-5.4 oz,$4.99,$1.04,per oz (avg)
+HEALTH_BEAUTY,Always Pads,20-120 count,$13.99,$0.20,per pad (avg)
+HEALTH_BEAUTY,Secret Solid Deodorant,2.6-2.7 oz,$2.99,$1.11,per oz (avg)
+HEALTH_BEAUTY,Tampax Tampons,40 count,$13.99,$0.35,per tampon
+FROZEN,SuperPretzel Pretzels,12-13 oz,$3.99,$0.31,per oz (avg)
+FROZEN,Marie Callender's Entrées,11-15 oz,2 for $9.00,$0.35,per oz (avg)
+FROZEN,Luigi's Italian Ices,36 fl oz (6 pack),2 for $7.00,$0.10,per fl oz
+FROZEN,Bertolli Dinners,22 oz,$9.99,$0.45,per oz
+FROZEN,Klondike Ice Cream Bars,15-27 fl oz,2 for $9.00,$0.21,per fl oz (avg)
+FROZEN,Italian Village Ravioli,12 oz,2 for $4.00,$0.17,per oz
+FROZEN,Morning Star Farms Meatless,5.25-10.5 oz,2 for $9.00,$0.57,per oz (avg)
+FROZEN,Blue Bunny Bomb Pops,21 fl oz,$3.99,$0.19,per fl oz
+FROZEN,Green Giant Riced Veggies,10 oz,2 for $6.00,$0.30,per oz
+FROZEN,Red Baron Pizza,Various sizes,3 for $12.00,$0.40,per oz (avg)
+FROZEN,Outshine Fruit Bars,18 fl oz (12 count),$5.99,$0.33,per fl oz
+FROZEN,Tower Isle's Beef Patties,14.5-15 oz,$5.99,$0.40,per oz (avg)
+FROZEN,Magnum Mini Ice Cream Bars,11.1 fl oz,$5.99,$0.54,per fl oz
+FROZEN,Restaurant Brand French Fries,14-28 oz,$4.99,$0.24,per oz (avg)
+FROZEN,Hot Pockets Sandwiches,17-18 oz,$4.99,$0.28,per oz (avg)
+FROZEN,Turkey Hill Ice Cream,46 fl oz,$4.99,$0.11,per fl oz
+DAIRY,Polly-O Mozzarella Cheese Ball,8 oz,$3.49,$0.44,per oz
+DAIRY,Daisy Sour Cream Dip,16 oz,2 for $6.00,$0.19,per oz
+DAIRY,Farmland Half & Half,16 fl oz,$1.99,$0.12,per fl oz
+DAIRY,Oikos Greek Yogurt,32 oz,$4.99,$0.16,per oz
+DAIRY,Farmland Light Cream,32 fl oz,$3.99,$0.12,per fl oz
+DAIRY,Activia Probiotic Dailies,24.8-25.1 fl oz,$5.99,$0.24,per fl oz (avg)
+DAIRY,Farmland Heavy Cream,32 fl oz,$5.99,$0.19,per fl oz
+DAIRY,Farmland Real Whipped Cream,7 oz,$2.99,$0.43,per oz
+DAIRY,La Colombe Cold Brew Coffee,42 fl oz,$4.99,$0.12,per fl oz
+DAIRY,Kozy Shack Pudding,22 oz,$3.99,$0.18,per oz
+DAIRY,Sunny D Juice Drinks,64 fl oz,2 for $3.00,$0.02,per fl oz
+DAIRY,Tropicana Lemonade,46 fl oz,2 for $5.00,$0.05,per fl oz
+DAIRY,Cabot Creamery Butter,16 oz,$4.99,$0.31,per oz
+DAIRY,Country Crock Spread,67.5 oz,$8.99,$0.13,per oz
+DAIRY,I Can't Believe It's Not Butter,45 oz,$9.99,$0.22,per oz
+DAIRY,Imperial Spread,45 oz,$3.99,$0.09,per oz
+DAIRY,Kraft Singles,16 oz,$4.99,$0.31,per oz
+DAIRY,Borden Sliced Cheese,5-6 oz,2 for $6.00,$0.55,per oz (avg)
+BEVERAGES,Pedialyte Advanced Care,33.8 fl oz,$6.99,$0.21,per fl oz
+BEVERAGES,Canada Dry 6 Packs,101.4 fl oz,2 for $11.00,$0.05,per fl oz
+BEVERAGES,Snapple Tea,96 fl oz (6 pack),$4.99,$0.05,per fl oz
+BEVERAGES,Pure Life Water,20 fl oz,2 for $3.00,$0.08,per fl oz
+BEVERAGES,Starbucks Frappuccino,38 fl oz (4 pack),$8.99,$0.24,per fl oz
+BEVERAGES,Sierra Nevada 6 Pack,72 fl oz,$10.99,$0.15,per fl oz
+BEVERAGES,Polar Seltzer,33.8 fl oz (1 liter),3 for $4.00,$0.04,per fl oz
+BEVERAGES,Pure Leaf Tea,18.5 fl oz,2 for $5.00,$0.14,per fl oz
+BEVERAGES,Kona 6 Pack,72 fl oz,$10.99,$0.15,per fl oz
+BEVERAGES,Poland Spring Water Gallon,128 fl oz,2 for $4.00,$0.02,per fl oz
+BEVERAGES,Canada Dry Mini Cans,45 fl oz (6 pack),$5.49,$0.12,per fl oz
+BEVERAGES,Arizona Iced Tea,138 fl oz (12 pack),$5.49,$0.04,per fl oz
+BEVERAGES,Powerade Sports Drinks,28 fl oz,4 for $5.00,$0.04,per fl oz
+BEVERAGES,Monster/Bang/Reign Energy,15-16 fl oz,2 for $5.00,$0.16,per fl oz (avg)
+BEVERAGES,Lean Body Protein Shakes,14 fl oz,$3.99,$0.29,per fl oz
+BEVERAGES,Evian Water,33.8 fl oz (1 liter),3 for $7.00,$0.07,per fl oz
+BEVERAGES,Honest Kids Organic Drinks,54 fl oz (8 pack),$4.49,$0.08,per fl oz
+BEVERAGES,Topo Chico Sparkling Water,96 fl oz (8 pack),$7.49,$0.08,per fl oz
+BEVERAGES,V8 Splash Drinks,64 fl oz,2 for $5.00,$0.04,per fl oz
+BEVERAGES,Pepsi 1.25 Liters,42.2 fl oz,3 for $5.00,$0.04,per fl oz
+BEVERAGES,Pepsi 10 Packs,75 fl oz,$6.49,$0.09,per fl oz
+BEVERAGES,Pepsi 8 Packs,96 fl oz,$5.99,$0.06,per fl oz
+BEVERAGES,Pepsi 6 Packs,101.4 fl oz,$6.99,$0.07,per fl oz
+BEVERAGES,Coca-Cola 8 Packs,96 fl oz,$6.99,$0.07,per fl oz
+BEVERAGES,Smartwater,50.7 fl oz (1.5 liter),3 for $7.00,$0.05,per fl oz
+BEVERAGES,Coca-Cola 2 Liters,67.6 fl oz,3 for $8.00,$0.04,per fl oz
+BEVERAGES,Smartwater 6 Pack,101.4 fl oz,$6.99,$0.07,per fl oz
+SNACKS,Utz Snack Barrels,20-32 oz,$7.99,$0.31,per oz (avg)
+SNACKS,Fiber One Bars,4.1-7 oz,2 for $6.00,$0.54,per oz (avg)
+SNACKS,Planters Peanuts,12 oz,$3.49,$0.29,per oz
+SNACKS,Bachman Pretzels/Popcorn,8-16 oz,2 for $7.00,$0.29,per oz (avg)
+SNACKS,Tortiyahs! Tortilla Chips,8-11 oz,2 for $7.00,$0.37,per oz (avg)
+SNACKS,Del Monte Fruit To Go,15-18.08 oz,2 for $6.00,$0.18,per oz (avg)
+SNACKS,Pringles Snack Stacks,4.9-5.57 oz,3 for $7.00,$0.42,per oz (avg)
+SNACKS,Town House Crackers,20.7 oz,$5.99,$0.29,per oz
+SNACKS,On The Border Tortilla Chips,8-12 oz,2 for $7.00,$0.35,per oz (avg)
+SNACKS,Kinder Bueno Chocolate Bar,1.5 oz,2 for $3.00,$1.00,per oz
+SNACKS,Herr's Potato Chips,7.75-8 oz,$3.99,$0.50,per oz (avg)
+SNACKS,Ghirardelli Chocolate Squares,4.8 oz,$3.99,$0.83,per oz
+SNACKS,Wise Cheez Doodles,5-9 oz,$3.49,$0.49,per oz (avg)
+SNACKS,Ferrero Rocher Chocolates,1.3 oz (3 count),$1.79,$1.38,per oz
+MEAT_SEAFOOD,Urban Meadow Beef Franks,12 oz,$3.99,$0.33,per oz
+MEAT_SEAFOOD,Urban Meadow Hamburgers,80 oz,$25.99,$0.32,per oz
+MEAT_SEAFOOD,Urban Meadow Burgers,48 oz,$15.99,$0.33,per oz
+MEAT_SEAFOOD,Urban Meadow Black Angus Burgers,32 oz,$11.99,$0.37,per oz
+MEAT_SEAFOOD,Urban Meadow Turkey Bacon,12 oz,$4.99,$0.42,per oz
+MEAT_SEAFOOD,Urban Meadow Hot Dogs,12 oz,2 for $3.00,$0.13,per oz
+MEAT_SEAFOOD,USDA Choice Beef Chuck,1 lb,$6.99,$6.99,per lb
+MEAT_SEAFOOD,USDA Choice Beef Round,1 lb,$7.99,$7.99,per lb
+MEAT_SEAFOOD,USDA Choice Top Chuck Steaks,1 lb,$7.99,$7.99,per lb
+MEAT_SEAFOOD,Pork Chop Combo,1 lb,$2.69,$2.69,per lb
+MEAT_SEAFOOD,Baby Back Pork Ribs,1 lb,$4.99,$4.99,per lb
+MEAT_SEAFOOD,Butterball Ground Turkey,16 oz,$4.99,$0.31,per oz
+MEAT_SEAFOOD,Butterball Turkey Burgers,16 oz,$5.99,$0.37,per oz
+MEAT_SEAFOOD,Pork Tenderloins,1 lb,$3.99,$3.99,per lb
+MEAT_SEAFOOD,Chicken Breast Cutlets,1 lb,$5.99,$5.99,per lb
+MEAT_SEAFOOD,Chicken Breast Tenderloins,1 lb,$5.49,$5.49,per lb
+MEAT_SEAFOOD,Boneless Chicken Thighs,1 lb,$3.99,$3.99,per lb
+MEAT_SEAFOOD,Perdue Chicken,12 oz,2 for $5.00,$0.21,per oz
+MEAT_SEAFOOD,USDA Choice Shell Steaks,1 lb,$13.99,$13.99,per lb
+MEAT_SEAFOOD,Country Style Pork Ribs,1 lb,$2.99,$2.99,per lb
+MEAT_SEAFOOD,American Lamb Loin Chops,1 lb,$14.99,$14.99,per lb
+MEAT_SEAFOOD,Cook's Smoked Ham Steaks,1 lb,$4.99,$4.99,per lb
+MEAT_SEAFOOD,Butterball Italian Turkey Sausage,16 oz,$5.99,$0.37,per oz
+MEAT_SEAFOOD,Harvestland Free Range Chicken,1 lb,$2.29,$2.29,per lb
+MEAT_SEAFOOD,Harvestland Organic Tenders,1 lb,$9.99,$9.99,per lb
+MEAT_SEAFOOD,Boneless Chicken Breast,1 lb,$4.59,$4.59,per lb
+MEAT_SEAFOOD,Nathan's Beef Franks,11-12 oz,$4.99,$0.43,per oz (avg)
+MEAT_SEAFOOD,Schweid & Sons Burgers,21.2 oz,$10.49,$0.49,per oz (avg)
+MEAT_SEAFOOD,Al Fresco Breakfast Sausage,7.5 oz,$4.99,$0.67,per oz
+MEAT_SEAFOOD,Hillshire Farm Smoked Sausage,12-14 oz,2 for $7.00,$0.27,per oz (avg)
+MEAT_SEAFOOD,Oscar Mayer Bacon,22 oz,$10.99,$0.50,per oz
+MEAT_SEAFOOD,Jones Ham/Liverwurst/Bacon,6-8 oz,2 for $6.50,$0.54,per oz (avg)
+MEAT_SEAFOOD,Steak-umm Sandwich Steaks,21 oz,$8.99,$0.43,per oz
+MEAT_SEAFOOD,AquaStar Cooked Shrimp,32 oz (2 lb),$18.99,$0.59,per oz
+MEAT_SEAFOOD,AquaStar Butterfly Shrimp,24 oz,$10.99,$0.46,per oz
+MEAT_SEAFOOD,Wholey Tilapia Fillets,16 oz (1 lb),$5.99,$0.37,per oz
+MEAT_SEAFOOD,Wholey Whiting Fillets,32 oz (2 lb),$7.99,$0.25,per oz
+MEAT_SEAFOOD,Wholey Tuna Steaks,13 oz,$10.99,$0.85,per oz
+MEAT_SEAFOOD,Buena Ventura Pollock Fillets,16 oz (1 lb),$5.99,$0.37,per oz
+HOUSEHOLD,Downy Scent Booster Beads,12.2 oz,$9.99,$0.82,per oz
+HOUSEHOLD,Suavitel Fabric Softener,46 fl oz,$3.99,$0.09,per fl oz
+HOUSEHOLD,Febreze Fabric Spray,27 fl oz,$6.99,$0.26,per fl oz
+HOUSEHOLD,Dawn Dish Soap,7.5 fl oz,$1.69,$0.23,per fl oz
+HOUSEHOLD,Pine Sol Multi-Surface Cleaner,24 fl oz,$4.99,$0.21,per fl oz
+HOUSEHOLD,Swiffer Duster Starter Kits,2-5 count,$5.99,$1.80,per kit (avg)
+HOUSEHOLD,Hefty Trash Bags,26-34 count,$4.49,$0.15,per bag (avg)
+HOUSEHOLD,Ivory Soap Bars,39.8 oz (10 pack),$7.99,$0.20,per oz
+HOUSEHOLD,Gain Fabric Softener,71-100 fl oz,$9.99,$0.12,per fl oz (avg)
+HOUSEHOLD,Tide Pods,18-31 count,$10.99,$0.45,per pod (avg)
+HOUSEHOLD,Febreze Plug Kit,0.87 fl oz,$5.99,$6.89,per fl oz
+HOUSEHOLD,Cascade Rinse Aid,16 fl oz,$5.49,$0.34,per fl oz
+HOUSEHOLD,Mr. Clean MagicEraser,2 count,$2.49,$1.25,per eraser
+HOUSEHOLD,Diamond Cutlery Combo,192 count,$21.99,$0.11,per piece
+HOUSEHOLD,Downy Intense Fabric Softener,77 fl oz,$9.99,$0.13,per fl oz
+HOUSEHOLD,Seventh Generation Detergent Sheets,32 count,$12.99,$0.41,per sheet
+HOUSEHOLD,Seventh Generation Dish Spray,16 fl oz,$4.99,$0.31,per fl oz
+HOUSEHOLD,Cascade ActionPacs,9-16 count,$5.99,$0.48,per pac (avg)
+HOUSEHOLD,Fabuloso Cleaner,48-56 fl oz,$4.99,$0.10,per fl oz (avg)
+HOUSEHOLD,Angel Soft Bath Tissue,135.11 sq ft (16 rolls),$4.99,$0.04,per sq ft
+HOUSEHOLD,Seventh Generation Laundry Detergent,Various sizes,$12.99,Variable,per fl oz
+HOUSEHOLD,Seventh Generation Dishwasher Packs,15-20 count,$5.99,$0.34,per pack (avg)
+HOUSEHOLD,Cascade Complete Detergent,75 oz,$7.99,$0.11,per oz
+HOUSEHOLD,Scrubbing Bubbles Cleaner,20-32 oz,$4.99,$0.19,per oz (avg)
+HOUSEHOLD,Sparkle Paper Towels,100.83 sq ft (2 rolls),$4.49,$0.04,per sq ft
+HOUSEHOLD,Downy Fresh Fabric Softener,125 fl oz,$9.99,$0.08,per fl oz
+HOUSEHOLD,Gain Laundry Detergent,25 fl oz,$4.99,$0.20,per fl oz
+HOUSEHOLD,Seventh Generation Dish Soap,19 fl oz,$2.99,$0.16,per fl oz
+HOUSEHOLD,Ajax Dish Detergent,12.4 fl oz,3 for $4.00,$0.11,per fl oz
+HOUSEHOLD,Ziploc Bags,10-12 count,$6.99,$0.64,per bag (avg)
+HOUSEHOLD,Gain Rinse + Renew,36.7 fl oz,$9.99,$0.27,per fl oz
+HOUSEHOLD,Gain Flings,18-31 count,$10.99,$0.45,per fling (avg)
+HOUSEHOLD,Finish Quantum Tabs,36 count,$12.99,$0.36,per tab
+HOUSEHOLD,Windex Cleaner,23 fl oz,$4.49,$0.20,per fl oz
+HOUSEHOLD,Hefty Storage Bags,Various counts,$3.99,Variable,per bag
+HOUSEHOLD,Tide Clean Boost Rinse,36.7 fl oz,$9.99,$0.27,per fl oz
+HOUSEHOLD,Gain Scent Booster Beads,12.2 oz,$9.99,$0.82,per oz
+HOUSEHOLD,Dreft Laundry Detergent,46 fl oz,$9.99,$0.22,per fl oz
+HOUSEHOLD,Dawn Powerwash Refill,16 fl oz,$3.99,$0.25,per fl oz
+HOUSEHOLD,Swiffer Cloths,12-16 count,$5.49,$0.39,per cloth (avg)
+HOUSEHOLD,Hefty Press To Close Bags,Various counts,$3.99,Variable,per bag
